@@ -1,0 +1,191 @@
+.logo{
+    font-family: 'ephesis',cursive;
+    font-size: 2.4em;
+    padding: 15px;
+    color: whitesmoke;
+}
+.quoteDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 89.3vh
+}
+.quote{
+    font-size: 2.4em;
+    font-family: 'ephesis',cursive;
+    color: whitesmoke;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.boxContainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* background-color: black; */
+    
+}
+.boxContainerParent{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    padding: 15px;  
+}
+.box{
+    min-width: 20vw;
+    max-width: 300px;
+    height: 300px;
+    color: whitesmoke;
+    padding: 15px 5px;
+    margin: 5px;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.box img{
+    /* min-width: 20vw; */
+    width: 305px;
+    height: 220px;
+    border-radius: 12px;
+}
+.place{
+    color: white;
+    font-family: 'ephesis',cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2em;
+    margin-left: 10%;
+    margin-right: 10%;
+    /* margin-bottom: 10%; */
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 10%;
+    margin-bottom: 15px;
+    
+}
+.place img{
+    width: 50vw;
+    height: 20vw;
+    border-radius: 15px;
+    margin: 15px;
+}
+.place p{
+    margin: 15px;
+}
+/* .content{
+    padding-bottom: 10vh;
+} */
+.footer{
+    height: 60vh;
+    background-color: black;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    /* background-color: rgba(17, 25, 40, 0.048); */
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 10%;
+}
+.footer p,.reviewsForm form div h2{
+    color: whitesmoke;
+    margin: 20px;
+    font-family: 'ephesis',cursive;
+    font-size: 2em;
+}
+.footerForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.reviewsForm{
+    width: fit-content;
+}
+.editReview{
+    font-size: 1.5em;
+    /* width: fit-content; */
+    display: flex;
+    justify-content: center;
+
+    font-family: 'ephesis',cursive;
+    color: whitesmoke;
+}
+.footerForm form,.reviewsForm form,.editReview form,.editReview{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 15px;
+}
+.footerForm form div input,.footerForm form div textarea,.reviewsForm form div textarea,.reviewsForm form div input,.editReview form div input,.editReview form div textarea,.reviewBox button,.reviewBox form input{
+    /* background-color: black; */
+    margin: 10px;
+    border-radius: 5px;
+    color: whitesmoke;
+    padding: 5px;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.29);
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+@media (max-width:360px) {
+    .box img{
+    width: 80vw;
+    height: auto;
+    }
+    .box{
+        width: fit-content;
+        height: fit-content;
+    }
+    .quote{
+        font-size: 1.2em;
+    }
+}
+.reviewBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'ephesis',cursive;
+    font-size: 1.5em;
+    min-width: 20vw;
+    max-width: 300px;
+    height: fit-content;
+    color: whitesmoke;
+    padding: 15px 5px;
+    margin: 5px;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+.reviews{
+    font-family: 'ephesis',cursive;
+    color: whitesmoke;
+    min-height: 100vh;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.048);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 15px;
+}
+.reviews div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.reviewList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

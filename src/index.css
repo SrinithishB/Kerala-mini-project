@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(black,rgba(0, 255, 64, 0.1)),url('munnar-hills.jpg');
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    /* background-position: center ; */
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}

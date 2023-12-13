@@ -1,0 +1,286 @@
+{
+  "touristspot": [
+    {
+      "id": 1,
+      "sname": "Alleppey (Alappuzha)",
+      "sortdes": "Known for its enchanting backwaters and houseboat cruises.",
+      "description": "Alleppey, officially known as Alappuzha, is a picturesque town in the state of Kerala, India. Renowned for its enchanting backwaters, serene lakes, and intricate network of canals.",
+      "keyfeatures": [
+        "Backwaters: Alleppey is often referred to as the 'Venice of the East' due to its vast network of backwaters. A houseboat cruise through the backwaters is a popular and unforgettable experience.",
+        "Houseboat Cruises: Traditional Kettuvallams converted into floating accommodations offer a unique way to explore the backwaters.",
+        "Alleppey Beach: A beautiful stretch of golden sand along the Arabian Sea, ideal for relaxation and enjoying peaceful sunsets.",
+        "Nehru Trophy Boat Race: An annual boat race on Punnamada Lake, featuring colorful snake boats and drawing spectators from around the world.",
+        "Alleppey Lighthouse: A historic lighthouse offering panoramic views of the Arabian Sea and the surrounding landscape.",
+        "Krishnapuram Palace: A 18th-century palace known for its architectural grandeur and housing the largest mural in Kerala.",
+        "Pathiramanal Island: A small bird-watching island on Vembanad Lake, accessible by boat and home to migratory and resident bird species.",
+        "Ambalapuzha Sree Krishna Temple: Known for its traditional Kerala architectural style and the famous 'Ambalapuzha Palpayasam.'"
+      ],
+      "image": "https://cdn.theculturetrip.com/wp-content/uploads/2018/02/alleppey-abhisheka-kumar-wikicommons.jpg"
+    },
+    {
+      "id": 2,
+      "sname": "Munnar",
+      "sortdes": "Famous for its tea plantations, picturesque landscapes, and cool climate.",
+      "description": "Alleppey, officially known as Alappuzha, is a picturesque town in the state of Kerala, India. Renowned for its enchanting backwaters, serene lakes, and intricate network of canals.",
+      "keyfeatures": [
+        "Backwaters: Alleppey is often referred to as the 'Venice of the East' due to its vast network of backwaters. A houseboat cruise through the backwaters is a popular and unforgettable experience.",
+        "Houseboat Cruises: Traditional Kettuvallams converted into floating accommodations offer a unique way to explore the backwaters.",
+        "Alleppey Beach: A beautiful stretch of golden sand along the Arabian Sea, ideal for relaxation and enjoying peaceful sunsets.",
+        "Nehru Trophy Boat Race: An annual boat race on Punnamada Lake, featuring colorful snake boats and drawing spectators from around the world.",
+        "Alleppey Lighthouse: A historic lighthouse offering panoramic views of the Arabian Sea and the surrounding landscape.",
+        "Krishnapuram Palace: A 18th-century palace known for its architectural grandeur and housing the largest mural in Kerala.",
+        "Pathiramanal Island: A small bird-watching island on Vembanad Lake, accessible by boat and home to migratory and resident bird species.",
+        "Ambalapuzha Sree Krishna Temple: Known for its traditional Kerala architectural style and the famous 'Ambalapuzha Palpayasam.'"
+      ],
+      "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/101000/101770-Munnar.jpg"
+    },
+    {
+      "id": 3,
+      "sname": "Kochi (Cochin)",
+      "sortdes": "A historic city with a blend of modern and traditional influences.",
+      "description": "Kochi, also known as Cochin, is a historic city in Kerala, India. It features the iconic Chinese Fishing Nets, Fort Kochi, and vibrant markets.",
+      "keyfeatures": [
+        "Chinese Fishing Nets: Kochi is famous for its Chinese Fishing Nets, a unique method of fishing introduced by Chinese traders.",
+        "Fort Kochi: The historic Fort Kochi area showcases colonial architecture and cultural diversity.",
+        "Markets: Vibrant markets offer a variety of spices, textiles, and local crafts.",
+        "St. Francis Church: The oldest European church in India, built in the early 16th century.",
+        "Mattancherry Palace: A Portuguese palace featuring murals depicting scenes from the Ramayana."
+      ],
+      "image": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2017/12/kochi_skyline.jpg"
+    },
+    {
+      "id": 4,
+      "sname": "Wayanad",
+      "sortdes": "A hill station with lush greenery, waterfalls, and wildlife sanctuaries.",
+      "description": "Wayanad is a scenic hill station in Kerala, known for its lush landscapes, waterfalls, and wildlife. It offers trekking and wildlife experiences.",
+      "keyfeatures": [
+        "Edakkal Caves: Ancient caves with petroglyphs and panoramic views of the Western Ghats.",
+        "Soochipara Falls: A three-tiered waterfall surrounded by dense forests, ideal for trekking.",
+        "Chembra Peak: The highest peak in Wayanad, offering stunning views and trekking opportunities.",
+        "Banasura Sagar Dam: The largest earth dam in India, providing boating and scenic views.",
+        "Wayanad Wildlife Sanctuary: Home to diverse flora and fauna, including elephants and leopards."
+      ],
+      "image": "https://gitc.travel/wp-content/uploads/2018/08/ef6915ce1c8c9ff6b67d1cad6781310d.jpeg"
+    },
+    {
+      "id": 5,
+      "sname": "Kovalam",
+      "sortdes": "A popular beach destination with pristine sandy beaches and a relaxed atmosphere.",
+      "description": "Kovalam is a renowned beach town in Kerala, known for its pristine sandy beaches, clear waters, and a relaxed atmosphere.",
+      "keyfeatures": [
+        "Lighthouse Beach: The most popular beach in Kovalam, known for its iconic lighthouse.",
+        "Hawa Beach and Samudra Beach: Other beautiful beaches in the area offering serene views.",
+        "Ayurvedic Treatments: Kovalam is a hub for Ayurvedic wellness and spa treatments.",
+        "Water Sports: Adventure enthusiasts can enjoy water sports like surfing and parasailing.",
+        "Vizhinjam Village: A quaint fishing village near Kovalam, offering a glimpse of local life."
+      ],
+      "image": "https://th.bing.com/th/id/R.fb4bab0c96fef1fcf1e1ccb70d05e85c?rik=0%2bWlq5SqxkFYSQ&riu=http%3a%2f%2fwww.prejagholidays.com%2fwp-content%2fuploads%2f2020%2f05%2f1.jpg&ehk=Js5jjoGERdG71bHRMCoP2VXWSh2zQiJ9S15pgRvzOOM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 6,
+      "sname": "Thekkady",
+      "sortdes": "Home to the Periyar National Park and Wildlife Sanctuary, offering wildlife safaris and boating on Periyar Lake.",
+      "description": "Thekkady is a nature lover's paradise in Kerala, featuring the famous Periyar National Park and Wildlife Sanctuary.",
+      "keyfeatures": [
+        "Periyar National Park: Home to diverse wildlife, including elephants, tigers, and various bird species.",
+        "Boating on Periyar Lake: Enjoy a boat ride amidst the scenic beauty of the lake and the surrounding forests.",
+        "Spice Plantations: Explore the spice-scented plantations in the region.",
+        "Mangala Devi Temple: A ancient temple atop a hill, offering panoramic views of the Western Ghats.",
+        "Bamboo Rafting: Adventure activities like bamboo rafting are popular in Thekkady."
+      ],
+      "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/12/periyar-wildlife-sanctuary.jpg"
+    },
+    {
+      "id": 7,
+      "sname": "Varkala",
+      "sortdes": "A beach town known for its unique cliffs, mineral springs, and the Papanasam Beach.",
+      "description": "Varkala is a coastal town in Kerala, famous for its unique cliffs, mineral springs, and the Papanasam Beach.",
+      "keyfeatures": [
+        "Varkala Cliff: A stunning cliff overlooking the Arabian Sea, offering panoramic views.",
+        "Papanasam Beach: Known for its mineral springs and believed to have spiritual significance.",
+        "Janardanaswamy Temple: An ancient temple dedicated to Lord Vishnu, attracting pilgrims and tourists.",
+        "Ayurvedic Healing: Varkala is a hub for Ayurvedic treatments and yoga retreats.",
+        "Edava Nadayara Lake: A serene lake near Varkala, ideal for boating and relaxation."
+      ],
+      "image": "https://thetravelshots.com/wp-content/uploads/2020/09/varkala-papanasam-beach-2048x1536.jpg"
+    },
+    {
+      "id": 8,
+      "sname": "Kumarakom",
+      "sortdes": "Known for its backwaters, Kumarakom is a serene village with houseboat experiences and bird watching.",
+      "description": "Kumarakom is a serene village in Kerala, renowned for its picturesque backwaters, houseboat experiences, and bird-watching opportunities.",
+      "keyfeatures": [
+        "Vembanad Lake: The largest lake in Kerala, offering scenic backwaters and houseboat cruises.",
+        "Kumarakom Bird Sanctuary: A paradise for bird watchers with a variety of migratory and resident bird species.",
+        "Aymanam Village: Explore the nearby village to experience rural life and traditional Kerala culture.",
+        "Aruvikkuzhi Waterfall: A beautiful waterfall surrounded by rubber plantations and lush greenery.",
+        "Pathiramanal Island: A small island on Vembanad Lake known for its natural beauty and bird habitat."
+      ],
+      "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/02/Alappuzha-Alleppey.jpg"
+    },
+    {
+      "id": 9,
+      "sname": "Thrissur",
+      "sortdes": "Rich in cultural heritage, Thrissur is known for the Vadakkunnathan Temple, Thrissur Pooram festival, and Kerala Kalamandalam.",
+      "description": "Thrissur, the cultural capital of Kerala, is known for its rich heritage, temples, and vibrant cultural festivals.",
+      "keyfeatures": [
+        "Vadakkunnathan Temple: An ancient Hindu temple dedicated to Lord Shiva, known for its architectural beauty.",
+        "Thrissur Pooram: One of the most famous and colorful festivals in Kerala, featuring grand elephant processions and fireworks.",
+        "Kerala Kalamandalam: A renowned institution for learning and promoting traditional Kerala art forms.",
+        "Sakthan Thampuran Palace: A historical palace showcasing Kerala's architectural style and artifacts.",
+        "Athirappilly Waterfalls: Visit the nearby waterfalls, often referred to as the 'Niagara of India.'"
+      ],
+      "image": "https://www.kanyakumarians.com/data/catalog/Thrissur/aynkphotography.jpg"
+    },
+    {
+      "id": 10,
+      "sname": "Kozhikode (Calicut)",
+      "sortdes": "A coastal city with historic sites, vibrant markets, and beautiful beaches like Kappad Beach.",
+      "description": "Kozhikode, also known as Calicut, is a coastal city in Kerala known for its historic sites, markets, and scenic beaches.",
+      "keyfeatures": [
+        "Kappad Beach: The historic beach where Vasco da Gama landed in 1498, marked by a monument.",
+        "Beypore: Famous for its shipbuilding industry, explore the traditional Beypore shipyard.",
+        "Mananchira Square: A beautiful park with a musical fountain, ideal for leisurely walks.",
+        "Kozhikode Beach: Enjoy the sandy shores and scenic views of the Arabian Sea.",
+        "Thusharagiri Waterfalls: A set of three waterfalls surrounded by lush greenery and ideal for trekking."
+      ],
+      "image": "https://i.pinimg.com/originals/73/60/54/73605474ee029cfd1b3a784948fb5464.jpg"
+    },
+    {
+      "id": 11,
+      "sname": "Poovar",
+      "sortdes": "A tranquil coastal village with backwaters, estuaries, and a beautiful beach.",
+      "description": "Poovar is a serene coastal village in Kerala, known for its tranquil backwaters, estuaries, and a pristine beach.",
+      "keyfeatures": [
+        "Poovar Backwaters: Explore the serene backwaters and estuaries of Poovar on a boat ride.",
+        "Golden Sand Beach: Enjoy the golden sands and calm waters of the beautiful Poovar Beach.",
+        "Floating Cottages: Experience unique accommodation in floating cottages on the backwaters.",
+        "Neyyar Wildlife Sanctuary: Visit the nearby sanctuary for a glimpse of wildlife and nature trails.",
+        "Elephant Rock: A unique rock formation in the shape of an elephant near Poovar Beach."
+      ],
+      "image": "https://www.himsagartours.com/wp-content/uploads/2020/01/poovar-island-poovar-thiruvananthapuram-tourist-attraction.jpg"
+    },
+    {
+      "id": 12,
+      "sname": "Palakkad",
+      "sortdes": "Known for its historic Palakkad Fort and the scenic Malampuzha Dam and Gardens.",
+      "description": "Palakkad is a historical town in Kerala, renowned for its ancient fort, dams, and scenic gardens.",
+      "keyfeatures": [
+        "Palakkad Fort: Explore the well-preserved Palakkad Fort, a testimony to the town's history.",
+        "Malampuzha Dam: The largest reservoir in Kerala, offering boating and garden attractions.",
+        "Nelliyampathy Hills: A picturesque hill station with tea gardens and breathtaking views.",
+        "Parambikulam Wildlife Sanctuary: Home to diverse flora and fauna, ideal for wildlife enthusiasts.",
+        "Kava Viewpoint: Enjoy panoramic views of the Western Ghats from this popular viewpoint."
+      ],
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7c/99/42/img-5743-largejpg.jpg?w=1000&h=600&s=1"
+    },
+    {
+      "id": 13,
+      "sname": "Kollam",
+      "sortdes": "Famous for the Ashtamudi Lake, backwaters, and the historic Thangassery Lighthouse.",
+      "description": "Kollam is a charming town in Kerala, known for its backwaters, lakes, and historic lighthouses.",
+      "keyfeatures": [
+        "Ashtamudi Lake: Explore the second-largest estuarine lake in Kerala with scenic backwaters.",
+        "Thangassery Lighthouse: Visit the historic lighthouse for panoramic views of the Arabian Sea.",
+        "Kollam Beach: Relax on the sandy shores and enjoy the serene surroundings.",
+        "Munroe Island: A peaceful island with canals, ideal for backwater cruises and village walks.",
+        "Jatayu Earth's Center: Home to the world's largest bird sculpture, representing the mythical eagle Jatayu."
+      ],
+      "image": "https://expresvu.com/wp-content/uploads/2021/05/jatayu-earth-centre-.jpeg"
+    },
+    {
+      "id": 14,
+      "sname": "Vagamon",
+      "sortdes": "A peaceful hill station with meadows, pine forests, and breathtaking landscapes.",
+      "description": "Vagamon is a serene hill station in Kerala, known for its peaceful landscapes, lush meadows, and pine forests.",
+      "keyfeatures": [
+        "Vagamon Meadows: Enjoy the picturesque meadows surrounded by rolling hills.",
+        "Pine Forests: Explore the scenic pine forests offering a tranquil atmosphere.",
+        "Thangal Para: A prominent rock formation providing panoramic views of the surroundings.",
+        "Vagamon Lake: A serene lake surrounded by greenery, ideal for boating and relaxation.",
+        "Murugan Mala: Visit the sacred hill dedicated to Lord Murugan for spiritual vibes."
+      ],
+      "image": "https://skylineairlink.com/wp-content/uploads/2020/05/Vagaman-768x506-1.jpg"
+    },
+    {
+      "id": 15,
+      "sname": "Malappuram",
+      "sortdes": "Known for its cultural diversity, the Kottakkunnu park, and the ancient temples.",
+      "description": "Malappuram is a culturally diverse town in Kerala, celebrated for its historic landmarks, parks, and temples.",
+      "keyfeatures": [
+        "Kottakkunnu Park: A scenic park with historical monuments and viewpoints.",
+        "Thirunavaya Nava Mukunda Temple: An ancient temple with significant religious importance.",
+        "Adyanpara Waterfalls: A captivating waterfall surrounded by lush greenery and rocky terrain.",
+        "Nilambur Teak Museum: Explore the rich history of teak cultivation in the region.",
+        "Padinharekara Beach: Relax on the sandy shores and enjoy the coastal beauty."
+      ],
+      "image": "https://th.bing.com/th/id/R.a3771065e257ab8b47f8980e9360c684?rik=Kw7ssK6SHrvxhg&riu=http%3a%2f%2fwww.holidify.com%2fimages%2fcompressed%2f2895.jpg&ehk=RFTlGOSzb2oETahzyrd6A%2btCVBptbK8ZIOp5Cs6eOfk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 16,
+      "sname": "Kottayam",
+      "sortdes": "Famous for its churches, rubber plantations, and the pristine Vembanad Lake.",
+      "description": "Kottayam is a picturesque town in Kerala, renowned for its churches, rubber plantations, and the scenic Vembanad Lake.",
+      "keyfeatures": [
+        "St. Mary's Forane Church: A historic church known for its architectural beauty.",
+        "Kumarakom Bird Sanctuary: Explore the nearby bird sanctuary for bird-watching enthusiasts.",
+        "Rubber Plantations: Witness the vast rubber plantations that contribute to Kerala's economy.",
+        "Ettumanoor Mahadeva Temple: An ancient temple dedicated to Lord Shiva, known for its mural paintings.",
+        "Vembanad Lake: Enjoy the serene backwaters of Vembanad, known as the 'Backwater Capital of India.'"
+      ],
+      "image": "https://th.bing.com/th/id/R.dd3661d52c2766516600f65e792bfad6?rik=PoAoXbZaYhHJIQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-X528D4PF_XE%2fVEI7yaDf4fI%2fAAAAAAAAByo%2f4g6bjb1pr-c%2fs1600%2fthiba-palace-by_ramnath1971_cc_by_2_12679816723.jpg&ehk=YmVBJRZxVoRz7O9fwxpL6cLQR2DWM4Yg49LnWNKbLg0%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ],
+  "feedback": [
+    {
+      "name": "Srinithish B",
+      "email": "nithish@gmail.com",
+      "feedback": "Very Good",
+      "id": 1
+    },
+    {
+      "name": "Nithish",
+      "email": "srini@gmail.com",
+      "feedback": "Super",
+      "id": 2
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Srinithish B",
+      "email": "sri@gmail.com",
+      "password": "12345",
+      "rating": "5",
+      "about": "Butifull",
+      "placeId": 1,
+      "id": 1
+    },
+    {
+      "name": "Srinithish B",
+      "email": "srini@gmail.com",
+      "password": "abc",
+      "rating": "4",
+      "about": "Butiful",
+      "placeId": 2,
+      "id": 3
+    },
+    {
+      "name": "Nithish",
+      "email": "nithish@gmail.com",
+      "password": "1234",
+      "rating": "4",
+      "about": "Super place",
+      "placeId": 2,
+      "id": 4
+    },
+    {
+      "name": "Srinithish B",
+      "email": "sri@gmail.com",
+      "password": "1234",
+      "rating": "5",
+      "about": "Super",
+      "placeId": 1,
+      "id": 5
+    }
+  ]
+}
