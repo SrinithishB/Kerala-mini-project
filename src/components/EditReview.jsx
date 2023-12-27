@@ -3,7 +3,7 @@ import style from './nav.module.css'
 import { useEffect, useRef, useState } from 'react'
 import axios from 'axios'
 const EditReview=()=>{
-    let navigate=useNavigate("http://localhost:3001")
+    let navigate=useNavigate("https://tourtokerala.netlify.app")
     let id=useParams()
     let name=useRef()
     let email=useRef()
@@ -14,7 +14,7 @@ const EditReview=()=>{
     let [placeId,setPlaceID]=useState(0)
     let [passState,setPassState]=useState('')
     useEffect(()=>{
-        axios.get(`http://localhost:3000/reviews/${id.x}`)
+        axios.get(`https://tourtokerala.netlify.app/reviews/${id.x}`)
         .then((res)=>{
             console.log(res.data);
             name.current.value=res.data.name
