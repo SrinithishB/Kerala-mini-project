@@ -8,7 +8,7 @@ const Place=()=>{
     let [data,setData]=useState([])
     // let [fea,setFea]=useState([])
     useEffect(()=>{
-        axios.get(`http://localhost:3000/touristspot/${obj.x}`)
+        axios.get(`https://tourtokerala.netlify.app/touristspot/${obj.x}`)
         .then((res)=>{
             setData(res.data)
             // setFea(data.keyfeatures.splice(',',data.keyfeatures.length));
