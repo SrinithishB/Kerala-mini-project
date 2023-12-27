@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react'
 const BoxContainer=(x)=>{
     let [data,setData]=useState([])
     useEffect(()=>{
-        axios.get(`http://localhost:3000/${x.db}`)
+        axios.get(`https://tourtokerala.netlify.app/${x.db}`)
         .then((res)=>{
             setData(res.data)
         })
