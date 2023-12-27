@@ -1,7 +1,7 @@
 import style from './nav.module.css'
 import { useNavigate, useParams } from "react-router-dom"
 const Box=(d)=>{  
-    let navigate=useNavigate("http://localhost:3001") 
+    let navigate=useNavigate("https://tourtokerala.netlify.app/") 
     let open=()=>{
         navigate(`/place/${d.data.id}`)   
     }
