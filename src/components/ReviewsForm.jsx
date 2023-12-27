@@ -21,7 +21,7 @@ const ReviewsForm=(x)=>{
             "about":about.current.value,
             "placeId":Number(x.id)
         }
-        axios.post(`http://localhost:3000/reviews/`,o)
+        axios.post(`https://tourtokerala.netlify.app/reviews/`,o)
         .then(()=>{
             console.log("Review Added");
             name.current.value=""
