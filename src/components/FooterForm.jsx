@@ -13,7 +13,7 @@ let submit=(x)=>{
         "feedback":feedback.current.value
     }
     console.log(o);
-    axios.post("http://localhost:3000/feedback",o)
+    axios.post("https://tourtokerala.netlify.app/feedback",o)
     .then(()=>{
         console.log("Success");
         name.current.value=""
