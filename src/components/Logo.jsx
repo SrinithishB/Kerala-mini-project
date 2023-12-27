@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom'
 import style from './nav.module.css'
 const Logo=()=>{
-    let navigate=useNavigate("http://localhost:3001") 
+    let navigate=useNavigate("https://tourtokerala.netlify.app") 
     let Go=()=>{
         navigate('/')
     }
