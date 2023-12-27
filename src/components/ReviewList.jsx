@@ -3,12 +3,12 @@ import style from './nav.module.css'
 import axios from 'axios'
 import { useNavigate } from 'react-router-dom'
 const ReviewList=(x)=>{
-    let navigate=useNavigate("http://localhost:3001")
+    let navigate=useNavigate("https://tourtokerala.netlify.app/")
     let [data,setData]=useState([])
     let form=useRef()
     let [password,setPassword]=useState("")
     useEffect(()=>{
-        axios.get("http://localhost:3000/reviews")
+        axios.get("https://tourtokerala.netlify.app/reviews")
         .then((response)=>{
             setData(response.data)
         })
@@ -27,7 +27,7 @@ const ReviewList=(x)=>{
     }
     let confirmDelete=(id,pass)=>{
         if(pass==password){
-            axios.delete(`http://localhost:3000/reviews/${id}`)
+            axios.delete(`https://tourtokerala.netlify.app/reviews/${id}`)
             .then(()=>{
                 console.log("Success");
             })
