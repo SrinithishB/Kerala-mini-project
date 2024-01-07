@@ -8,7 +8,7 @@ const ReviewList=(x)=>{
     let form=useRef()
     let [password,setPassword]=useState("")
     useEffect(()=>{
-        axios.get("https://tourtokerala.netlify.app/reviews")
+        axios.get("https://kerala-json-api.onrender.com/reviews")
         .then((response)=>{
             setData(response.data)
         })
@@ -27,7 +27,7 @@ const ReviewList=(x)=>{
     }
     let confirmDelete=(id,pass)=>{
         if(pass==password){
-            axios.delete(`https://tourtokerala.netlify.app/reviews/${id}`)
+            axios.delete(`https://kerala-json-api.onrender.com/reviews/${id}`)
             .then(()=>{
                 console.log("Success");
             })
