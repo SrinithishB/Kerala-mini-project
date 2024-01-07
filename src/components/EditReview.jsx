@@ -14,7 +14,7 @@ const EditReview=()=>{
     let [placeId,setPlaceID]=useState(0)
     let [passState,setPassState]=useState('')
     useEffect(()=>{
-        axios.get(`https://tourtokerala.netlify.app/reviews/${id.x}`)
+        axios.get(`https://kerala-json-api.onrender.com/reviews/${id.x}`)
         .then((res)=>{
             console.log(res.data);
             name.current.value=res.data.name
@@ -43,7 +43,7 @@ const EditReview=()=>{
                 "about":about.current.value,
                 "placeId":placeId
             }
-            axios.put(`http://localhost:3000/reviews/${id.x}`,o)
+            axios.put(`https://kerala-json-api.onrender.com/reviews/${id.x}`,o)
             .then(()=>{
                 console.log("Review Edited");
                 navigate(`/place/${id.x}`)
